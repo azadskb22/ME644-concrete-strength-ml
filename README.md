@@ -1,7 +1,7 @@
 # Prediction of Concrete Compressive Strength Using Machine Learning
 
-**Course Project — ME644**
-**Author:** Azad Bharti Ahirwar (Roll No. 240250), Department of Mechanical Engineering, IIT Kanpur
+**Course Project — ME644** Machine Learning for Engineers
+ Department of Mechanical Engineering, IIT Kanpur
 
 ## Overview
 
