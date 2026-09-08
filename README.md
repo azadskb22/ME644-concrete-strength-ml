@@ -1,6 +1,6 @@
 # Prediction of Concrete Compressive Strength Using Machine Learning
 
-**Course Project — ME644** Machine Learning for Engineers
+**Course Project — ME644**, Machine Learning for Engineers,
  Department of Mechanical Engineering, IIT Kanpur
 
 ## Overview
